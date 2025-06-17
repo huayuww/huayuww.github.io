@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
+    "name": "Huayu Wang",
     "email": "none@example.org",
     "phone": "",
     "website": "https://academicpages.github.io",
@@ -33,26 +33,26 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Washington",
+      "area": "Ph.D in Electrical & Computer Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2023",
+      "endDate": "2028",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Sun Yat-sen University",
+      "area": "M.S. in Computer Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2019",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Guangong Pharmateutical University",
+      "area": "B.S. in Information Management and Information Systems",
       "studyType": "",
       "startDate": "",
       "endDate": "2012",

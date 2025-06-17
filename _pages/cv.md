@@ -11,26 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical & Computer Engineering, University of Washington, 2028 (expected)
+* M.S. in Computer Engineering, Sun Yat-sen University, 2022
+* B.S. in Information Management, Guangong Pharmateutical University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2023 - Present: Research Assistant
+  * University of Washington
+  * Advisor: Jenq-Neng Hwang & Linda Shapiro
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar 2023 - Jul 2023: Research Scientist
+  * Harborview Medical Center
+  * Laboratory of Advanced Vascular imaging and Analysis
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul 2022 - Mar 2023: Image Algorithm Engineer
+  * Shanghai Microport Medbot(Group)Co.,Ltd.
+
+* Aug 2020 - Nov 2020: Software Engineer (Internship)
+  * GE HealthCare
+  * Skills: C++, Qt
+
+* Sep 2017 - Jun 2018: Software Engineer
+  * Perception Vision Medical Technologies Co.,Ltd
+  * Focus: Medical Imaging Cloud Platform Developer
   
 Skills
 ======
