@@ -22,7 +22,7 @@ repository               : "huayuww/huayuww.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "huayu_wang.jpeg"
   name             : "Huayu Wang"
   location         : "Seattle, WA"
   employer         : "University of Washington"
@@ -210,8 +210,8 @@ kramdown:
 #     output: true
 #     permalink: /:collection/:path/
 #   publications:
-    output: true
-    permalink: /:collection/:path/
+    # output: true
+    # permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
