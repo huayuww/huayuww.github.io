@@ -19,27 +19,31 @@ My research centers on diffusion models for human motion generation and fine-gra
 ====== -->
 ## Selected Publications
 
-1. **CLEP: Contrastive Language-Pose Pretraining**  
+1. **Beyond Region Memory: Local Point Tracking for Vocal Cord Localization in Video Laryngoscopy**  
+   **Wang, H.**, Ko, G., Kim, J. H., Jian, J. X., et al.  
+   *Accepted by WACV 2027*
+
+2. [**CLEP: Contrastive Language-Pose Pretraining**](https://openaccess.thecvf.com/content/CVPR2026/papers/Jia_CLEP_Contrastive_Language-Pose_Pretraining_CVPR_2026_paper.pdf)  
    Jia, S., **Wang, H.**, Huang, H., An, Z., Hwang, J. N., Zhang, H., & Li, L.  
-   *Accepted by CVPR 2026*
+   *CVPR 2026*
 
-2. **Privacy-Preserving Radar-Based Italian Sign Language Recognition via ConvNeXt and Ensemble Learning**  
+3. [**Privacy-Preserving Radar-Based Italian Sign Language Recognition via ConvNeXt and Ensemble Learning**](https://openaccess.thecvf.com/content/CVPR2026W/MSLR/papers/Wang_PRISM_at_SignEval_2026_Privacy-Preserving_Radar-Based_Italian_Sign_Language_Recognition_CVPRW_2026_paper.pdf)  
    **Wang, H.**, Tan, Z., Jian, J. X., Zou, S., Huang, S., Chung, P. C., & Hwang, J. N.  
-   *Accepted by CVPR 2026 Workshop*
+   *CVPR 2026 Workshop*
 
-3. [**Detector-in-the-Loop Tracking: Active Memory Rectification for Stable Glottic Opening Localization**](https://arxiv.org/pdf/2602.19380)  
+4. [**Detector-in-the-Loop Tracking: Active Memory Rectification for Stable Glottic Opening Localization**](https://arxiv.org/pdf/2602.19380)  
    **Wang, H.**, Alattar, B., & Hwang, J. N.  
-   *Accepted by MIDL: Medical Imaging with Deep Learning 2026*
+   *MIDL: Medical Imaging with Deep Learning 2026*
 
-4. [**CrossFusion: A Multi-Scale Cross-Attention Convolutional Fusion Model for Cancer Survival Prediction**](https://openreview.net/pdf?id=CZMHbOGu1H)  
+5. [**CrossFusion: A Multi-Scale Cross-Attention Convolutional Fusion Model for Cancer Survival Prediction**](https://openreview.net/pdf?id=CZMHbOGu1H)  
    Soraki, R., **Wang, H.**, Elmore, J. G., & Shapiro, L.  
-   *Accepted by MIDL: Medical Imaging with Deep Learning 2026*
+   *MIDL: Medical Imaging with Deep Learning 2026*
 
-5. [**Concepts from Neurons: Building Interpretable Medical Image Diagnostic Models by Dissecting Opaque Neural Networks**](https://link.springer.com/chapter/10.1007/978-3-031-96625-5_1)  
+6. [**Concepts from Neurons: Building Interpretable Medical Image Diagnostic Models by Dissecting Opaque Neural Networks**](https://link.springer.com/chapter/10.1007/978-3-031-96625-5_1)  
    Gong, S., **Wang, H.**, Zhang, X., & Dou, Q. (2025).  
    *International Conference on Information Processing in Medical Imaging (IPMI)*
 
-6. [**The Uncertainty of Boundary Can Improve the Classification Accuracy of BI-RADS 4A Ultrasound Image**](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.15590)  
+7. [**The Uncertainty of Boundary Can Improve the Classification Accuracy of BI-RADS 4A Ultrasound Image**](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.15590)  
    **Wang, H.**, Hu, Y., Lu, Y., Zhou, J., & Guo, Y. (2022).  
    *Medical Physics*
 
@@ -60,4 +64,3 @@ Teaching Experience
 - **EE 344**: Data-Driven Modeling and Machine Learning
 - **EE 443**: Machine Learning for Signal Processing Applications
 - **EE 596**: Advanced Topics in Signal and Image Processing
-
